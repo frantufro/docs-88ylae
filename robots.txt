@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-odj1h4.quietmatches.com/sitemap.xml
